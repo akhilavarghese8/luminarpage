@@ -1,0 +1,18 @@
+button{
+    width: 150px;
+    height: 50px ;
+    border-radius:30px ;
+    background-color: violet;
+    color: aliceblue;
+
+}
+button:hover{
+    background-color: aliceblue;
+    color: violet;
+}
+h1{
+    color: blueviolet;
+}
+span{
+    color: blue;
+}
